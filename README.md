@@ -8,12 +8,40 @@
 
 <a href="http://basscoder2808.github.io/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
 
-I am a 2nd-year Graduate Student at The University of Illinois at Chicago, pursuing a Masters in Computer Science, who is passionate about Data Science :bar_chart:, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
+I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code.
 
 - 📭 [Reach out](#hi-there-samujjwaal-here) for help with MS CS in US, Data Science, Machine Learning, Python, and Scala
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+<!-- - 🏢 I'm currently working at **Worklife** -->
+<!-- Programming Languages:C
+Functional: Machine Learning, ERPNext, Terraform, NumPy, Pandas, TensorFlow 2
+Mobile and Web Technologies: HTML, CSS, Bootstrap, JavaScript, Django, Flask
+Databases: MySQL, PostgreSQL, MongoDB, SQLite
+Development Tools: Visual Studio, Git, Eclipse, IntelliJ IDEA, PyCharm -->
+- 🚀 I use daily:
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![Java](https://img.shields.io/badge/-Java-black?style=plastic&logo=Java)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=plastic&logo=ubuntu)
+- 💻 I work using:
+  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
+  ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
+  ![Flask](https://img.shields.io/badge/Flask-232F3E?style=plastic&logo=flask)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+- ⚙️ I also use and work: ![TensorFlow 2](https://img.shields.io/badge/-tensorflow-394989?style=plastic&logo=tensorflow) ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb) ![Terraform](https://img.shields.io/badge/-Terraform-00599C?style=plastic&logo=terraform) ![C](https://img.shields.io/badge/-C-00599C?style=plastic&logo=c)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+- 🌱 Learning all about:
+  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-black?style=plastic&logo=machine-learning) ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-c7b198?style=plastic&logo=data) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
+  ![ERPNext](https://img.shields.io/badge/-ERPNext-black?style=plastic&logo=erp-next)
+- ⚡️ Fun fact: I'm a huge fan of Football, I love to eat and travel
 
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
