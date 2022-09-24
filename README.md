@@ -41,7 +41,7 @@ I'm an **Undergrad Student🎓 [@SPIT Mumbai](https://www.spit.ac.in)** pursuing
 ## ⚡️ A Few Quick Facts
 
 - 🔭 I’m currently working on NLP Project
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+<img width="490" height="230" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
