@@ -1,6 +1,6 @@
 ## Hi there, [Vedant Jolly](http://basscoder2808.github.io/) here 👋🏼👨🏻‍💻
 
-<!-- ![Hi](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png) -->
+![](https://github.com/BassCoder2808/BassCoder2808/blob/main/icons/header_1.png)
 
 [![Gmail Badge](https://img.shields.io/badge/-vedantjolly2001@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vedantjolly2001@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Jolly-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/basscoder2808/ "Connect on LinkedIn")
