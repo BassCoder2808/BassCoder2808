@@ -51,6 +51,10 @@ Development Tools: Visual Studio, Git, Eclipse, IntelliJ IDEA, PyCharm -->
   <a href="http://basscoder2808.github.io/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/laptop.png" align="right" height="200" /></a>
 
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=basscoder2808&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/BassCoder2808)
+  
+  [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=basscoder2808&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/BassCoder2808)
+
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact" /> -->
 
   ----
   
