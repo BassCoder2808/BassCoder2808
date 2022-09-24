@@ -1,5 +1,7 @@
 ## Hi there, [Vedant Jolly](http://basscoder2808.github.io/) here 👋🏼👨🏻‍💻
 
+<!-- ![Hi](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png) -->
+
 [![Gmail Badge](https://img.shields.io/badge/-vedantjolly2001@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vedantjolly2001@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Jolly-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/basscoder2808/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@BassCoder2808-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/BassCoder2808 "Contact on Telegram")
@@ -8,7 +10,7 @@
 
 <a href="http://basscoder2808.github.io/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
 
-I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code.
+I love to talk on trending ⚡ technology ⚡. I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. I 💕 a good onboarding readme with good example.
 
 - 📭 [Reach out](#hi-there-samujjwaal-here) for help with MS CS in US, Data Science, Machine Learning, Python, and Scala
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
