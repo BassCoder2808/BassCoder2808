@@ -123,7 +123,7 @@ Development Tools: Visual Studio, Git, Eclipse, IntelliJ IDEA, PyCharm -->
 <br>
 <p align="center">
 <a href="https://github.com/BassCoder2808/Posture_Detection_AND_Correction">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=BassCoder2808&repo=Posture_Detection_AND_Correction&show_owner=true&theme=react"/>
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=BassCoder2808&repo=Posture_Detection_AND_Correction&show_owner=true&theme=react" height="130"/>
 </a>&ensp;
 <a href="https://github.com/BassCoder2808/HealthCareChatbot">
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=BassCoder2808&repo=HealthCareChatbot&show_owner=true&theme=react" />
