@@ -74,7 +74,7 @@ Development Tools: Visual Studio, Git, Eclipse, IntelliJ IDEA, PyCharm -->
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-- ⚙️ I also use and work: ![TensorFlow 2](https://img.shields.io/badge/-tensorflow-394989?style=plastic&logo=tensorflow) ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb) ![Terraform](https://img.shields.io/badge/-Terraform-00599C?style=plastic&logo=terraform) ![C](https://img.shields.io/badge/-C-00599C?style=plastic&logo=c)
+- ⚙️ I also work and use: ![TensorFlow 2](https://img.shields.io/badge/-tensorflow-394989?style=plastic&logo=tensorflow) ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb) ![Terraform](https://img.shields.io/badge/-Terraform-00599C?style=plastic&logo=terraform) ![C](https://img.shields.io/badge/-C-00599C?style=plastic&logo=c)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
@@ -123,7 +123,7 @@ Development Tools: Visual Studio, Git, Eclipse, IntelliJ IDEA, PyCharm -->
 <br>
 <p align="center">
 <a href="https://github.com/BassCoder2808/Posture_Detection_AND_Correction">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=BassCoder2808&repo=Posture_Detection_AND_Correction&show_owner=true&theme=react" height="135"/>
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=BassCoder2808&repo=Posture_Detection_AND_Correction&show_owner=true&theme=react"/>
 </a>&ensp;
 <a href="https://github.com/BassCoder2808/HealthCareChatbot">
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=BassCoder2808&repo=HealthCareChatbot&show_owner=true&theme=react" />
