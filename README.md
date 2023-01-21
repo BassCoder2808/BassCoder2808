@@ -32,7 +32,7 @@ I'm an **Undergrad Student🎓 [@SPIT Mumbai](https://www.spit.ac.in)** pursuing
 	def Ambitions():
 		LearnNewTech()
 		CreateAwesomeProjects()
-		CompleteMyEducation()
+		BeingPassionate()
 		# Assume 10 more awesome ambitions here  :)
 	
  ```
