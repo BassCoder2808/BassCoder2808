@@ -122,11 +122,11 @@ Development Tools: Visual Studio, Git, Eclipse, IntelliJ IDEA, PyCharm -->
 <summary> 💥 Working on </summary>
 <br>
 <p align="center">
-<a href="https://github.com/BassCoder2808/Posture_Detection_AND_Correction">
-<img src="https://new-readme-stats.vercel.app/api/pin/?username=BassCoder2808&repo=Posture_Detection_AND_Correction&show_owner=true&theme=react" height="130"/>
+<a href="https://github.com/BassCoder2808/Netfilx-and-Chilwell">
+<img src="https://new-readme-stats.vercel.app/api/pin/?username=BassCoder2808&repo=Netfilx-and-Chilwell&show_owner=true&theme=react" height="130"/>
 </a>&ensp;
-<a href="https://github.com/BassCoder2808/HealthCareChatbot">
-<img src="https://new-readme-stats.vercel.app/api/pin/?username=BassCoder2808&repo=HealthCareChatbot&show_owner=true&theme=react" />
+<a href="https://github.com/BassCoder2808/MajorProject2022">
+<img src="https://new-readme-stats.vercel.app/api/pin/?username=BassCoder2808&repo=MajorProject2022&show_owner=true&theme=react" />
 </a>
 </p>
 </details>
