@@ -18,7 +18,7 @@ I'm an **Undergrad Student🎓 [@SPIT Mumbai](https://www.spit.ac.in)** pursuing
  ```python
  class WhoAmI:
  	user = 'Vedant Jolly'
-		current_work = 'Writing code'
+		current_work = "I don't just write code; I create works of art that people can interact with 😌"
 		hobbies = [
 				'Basketball',
 				'Watching Football',
