@@ -12,7 +12,7 @@
 <a href="http://basscoder2808.github.io/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@SPIT Mumbai](https://www.spit.ac.in)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with trending ⚡ technology ⚡. I love building interesting and amazing products that serve a great deal of purpose. I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. I 💕 a good onboarding readme with good example.<br/><br/>
+I'm an **Master's Student🎓 [@University of Illinois, Urbaba-Champaign](https://www.spit.ac.in)** pursuing CSE. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with trending ⚡ technology ⚡. I love building interesting and amazing products that serve a great deal of purpose. I love open source. I am not a heavy maintainer of any large libraries, but I really like the boyscout rule. I contribute to things as I come across issues that I think other people might struggle with. I 💕 a good onboarding readme with good example.<br/><br/>
 
  ## Who am I?
  ```python
